@@ -5,3 +5,5 @@ The approach used here is Content based recommendation Systems which considers w
 and based on that suggesting new movies.
 
 Cosine Similarity is used to consider how similar are movies with each other. Based on cosine similarity , the higher values are considered.
+
+The dataset was considered from IMDB.
